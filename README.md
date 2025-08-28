@@ -11,6 +11,6 @@ The package bundles in the list are:
 
 ## Images
 
-![Powershell Instance of the package bundle for Terminal Starter Pack](gallery/Powershell Script (Terminal Starter Pack).png)
+![Powershell Instance of the package bundle for Terminal Starter Pack](gallery/Powershell Script (Terminal Starter Pack).PNG)
 
-![Importing the bundle in UniGetUI](gallery/UniGetUI Bundle (Terminal Starter Pack).png)
+![Importing the bundle in UniGetUI](gallery/UniGetUI Bundle (Terminal Starter Pack).PNG)
